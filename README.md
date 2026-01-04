@@ -1,16 +1,30 @@
-# vyra
+# VYRA 🚀
 
-A new Flutter project.
+VYRA is a modern video meeting application built using **Flutter**, **Firebase**, and **Jitsi Meet**.
 
-## Getting Started
+## ✨ Features
+- 🔐 Firebase Authentication
+- 📅 Schedule meetings with reminders
+- ⏰ Local notifications before meetings
+- 🎥 Real-time video meetings using Jitsi
+- 📜 Recent & scheduled meeting history
+- 🌙 Modern dark UI
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter
+- Firebase Auth & Firestore
+- Jitsi Meet SDK
+- flutter_local_notifications
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screens
+- Home
+- Schedule Meeting
+- Scheduled Meetings
+- Recent Meetings
+- Profile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚧 Status
+Actively developed 🚀
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Author
+**Sibaq Ahmed**
