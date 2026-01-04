@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "963268315610",
+    "project_id": "fir-tuto-f43a6",
+    "storage_bucket": "fir-tuto-f43a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963268315610:android:76658f5d0be887649598e3",
+        "android_client_info": {
+          "package_name": "com.example.vyra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963268315610-b6ao4milrljm5gpfn9fa9l5qct5f0pbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAUqqK4W9VakFUAlCv71eH8Qlt9CBj-ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963268315610-b6ao4milrljm5gpfn9fa9l5qct5f0pbh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "963268315610-hlprc22thildfjc1ls2emr00p35hrgm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frontend"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
