@@ -72,6 +72,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - assets/icons/google_logo.png
+     - assets/icons/vyralogo.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
@@ -103,11 +104,8 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: false
-  image_path: "assets/icons/vyralogo.png"
+  image_path: "assets/icons/vyralogo2.png"
 
-flutter_native_splash:
-  android: true
-  color: "#0F0F1A"
-  image: assets/icons/vyralogo.png
+
 
 

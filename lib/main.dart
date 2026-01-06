@@ -6,6 +6,7 @@ import 'core/theme/app_theme.dart';
 import 'features/auth/screens/login_screen.dart';
 import 'features/home/screen/main_screen.dart';
 import 'features/meeting/services/notification_service.dart';
+import 'features/splash/screens/splash_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -37,7 +38,7 @@ class VyraApp extends StatelessWidget {
 
           // ❌ Not logged in
           if (!snapshot.hasData) {
-            return const LoginScreen();
+            return const SplashScreen();
           }
 
           // ✅ Logged in — STABLE
